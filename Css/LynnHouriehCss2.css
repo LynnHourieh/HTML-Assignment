@@ -1,0 +1,92 @@
+.design{
+ background-color:#F7C677;
+ 
+}
+.second-design{
+    background-color: #2B8069;
+}
+img{
+    width:100%;
+    height:600px;
+    }
+
+h1{
+  
+    text-align:center;
+    color:#F7562C;
+    font-size:70px} 
+
+h2{ 
+    color:#F7562C;
+    text-align:center;
+    font-size:50px;}
+
+#color {color:#F7C677}    
+
+menu,p{
+    color:#F7C677;
+    font-size:50px;
+    
+}    
+
+
+.list{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    text-align: left;
+}
+.pic{
+    width:40%;
+    border-radius: 50%;
+    height:50%;
+   
+}
+button{font-size:10px;}
+ul{color:#2B8069;
+font-size:50px;
+}
+a{ color:#F7562C;
+    
+    font-size:30px;
+    text-align:right;
+    float:right;
+    padding-right:30px
+    }
+
+.paragraph{
+    text-align:center}
+
+
+button{
+    font-size:40px;
+    background-color: #F7C677;
+    color:#2B8069
+}
+.sweet{
+width:100%;
+}
+@media screen and (max-width:1190px){
+    .img{height:350px;}
+    .h1{font-size: 50px;}
+    
+    .menu{margin-left:180px;
+    font-size: 20px;}
+    .pic{margin-left:80px;
+    width:80%}
+    .sweet{
+    height:300px}
+    
+    p{font-size: 25px;
+        margin-left:60px;}
+    li{font-size:30px;
+        margin-left:20px;}
+    .list{display: list-item;}
+    ul{margin-left:150px}
+    a{margin-right:130px;
+        font-size: 20px;}
+    button{font-size:30px}    
+        
+
+
+}
