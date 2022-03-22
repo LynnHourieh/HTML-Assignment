@@ -3,11 +3,12 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-h1{color:#FEEB;
-margin-left:1350px;
-margin-top:100px;
-font-size:49px;}
-.menu{margin-left:1350px;
+h1{color:black;
+margin-left:120px;
+margin-top:90px;
+font-size:77px;}
+.menu{margin-left:900px;
+    margin-top:100px;
 }
 button{font-size:50px;
 
@@ -72,7 +73,7 @@ button{font-size:50px;
     50% { background-position: 400% 0; }
     100% { background-position: 0 0; }
 }
-@media screen and (max-width:1190px){
+/* @media screen and (max-width:1190px){
 
     body{
     background-size:auto} 
@@ -93,4 +94,7 @@ button{font-size:50px;
         z-index: 0;
         border-radius: 10px;
     }
-    button{font-size: 20px;}}
+
+    button{font-size: 20px;}} */
+
+  
